@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-profiles-react-inertia",
+  "capabilityKey": "liberusoftware/module-social-network-profiles",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-social-network-profiles-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/social-network/nextjs/social-network-profiles.md",
+  "presentationPlan": "projects/social-network/react/social-network-profiles.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
